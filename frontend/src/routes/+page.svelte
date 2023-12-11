@@ -7,7 +7,7 @@
 
 <main>
 	<header class="container">
-		<h1>ETHDubai 2023 hackathon</h1>
+		<h1>TradeFI</h1>
 	</header>
 
 	<InvestWidget />
